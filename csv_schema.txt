@@ -1,0 +1,7 @@
+For ordering of values in parameters.csv:
+	Refer to CSV READ 1 in LSTMEncder.py file
+
+For ordering of values in parameters_loss.csv:
+	Refer to CSV READ 2 in LSTMEncder.py file
+	(Basically consists of loss of model for every set of parameters
+	[each row in parameters.csv])
